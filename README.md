@@ -18,4 +18,5 @@ This repository documents my learning journey in **Data Analytics**, focusing on
 
 ## 📂 Repository in progress.
 - python basics
+- Data Analysis in python
   
